@@ -1,0 +1,35 @@
+[6/5/2024 18:07:59] [INFO] received Windows console close event; shutting log-core down
+[6/5/2024 21:44:26] [INFO] received Windows console close event; shutting log-core down
+[7/5/2024 00:16:18] [INFO] received Windows console close event; shutting log-core down
+[7/5/2024 00:26:57] [INFO] received Windows console close event; shutting log-core down
+[10/5/2024 19:56:15] [ERROR] exception 0XC0000005 (ACCESS_VIOLATION) from Vectored Exception Handler catched; shutting log-core down
+[10/5/2024 21:08:57] [INFO] received Windows console close event; shutting log-core down
+[11/5/2024 06:34:24] [INFO] received Windows console close event; shutting log-core down
+[11/5/2024 07:29:17] [INFO] received Windows console close event; shutting log-core down
+[11/7/2024 21:25:11] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 5:03:39 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 5:14:56 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 5:17:02 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 5:18:23 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 5:19:15 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 5:19:49 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 5:22:00 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 5:40:02 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 9:56:29 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 9:56:50 PM] [INFO] received Windows console close event; shutting log-core down
+[7/13/2024 10:10:49 PM] [INFO] received Windows console close event; shutting log-core down
+[7/15/2024 11:41:18 PM] [INFO] received Windows console close event; shutting log-core down
+[7/17/2024 8:56:53 PM] [INFO] received Windows console close event; shutting log-core down
+[7/17/2024 10:20:30 PM] [INFO] received Windows console close event; shutting log-core down
+[7/18/2024 5:38:34 PM] [INFO] received Windows console close event; shutting log-core down
+[19/07/2024 13:07:17] [INFO] received Windows console close event; shutting log-core down
+[19/07/2024 13:15:52] [INFO] received Windows console close event; shutting log-core down
+[19/07/2024 14:57:15] [INFO] received Windows console close event; shutting log-core down
+[19/07/2024 14:57:50] [INFO] received Windows console close event; shutting log-core down
+[19/07/2024 14:59:56] [INFO] received Windows console close event; shutting log-core down
+[31/7/2024 19:40:47] [INFO] received Windows console close event; shutting log-core down
+[31/7/2024 19:40:59] [INFO] received Windows console close event; shutting log-core down
+[31/7/2024 19:46:40] [INFO] received Windows console close event; shutting log-core down
+[2/8/2024 00:04:38] [INFO] received Windows console close event; shutting log-core down
+[15/8/2024 09:47:57] [INFO] received Windows console close event; shutting log-core down
+[15/8/2024 11:05:00] [INFO] received Windows console close event; shutting log-core down
