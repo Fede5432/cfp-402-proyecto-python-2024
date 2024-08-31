@@ -75,9 +75,6 @@ def player_connects(playerid: Player):
     mycursor.execute(sql, val)
     myresult = mycursor.fetchone()
 
-    global register_dialog
-    global login_dialog
-
     register_dialog = Dialog.create(1, "Registrarse", "{FFFFFF}" + f"Hola {user_name}, ingresa una contraseña para registrarte.", "Continuar", "Salir", dialog)
     login_dialog = Dialog.create(1, "Iniciar sesión", "{FFFFFF}" + f"Hola {user_name}, ingresa tu contraseña para iniciar sesión", "Continuar", "Salir", dialog)
 
