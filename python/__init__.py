@@ -1,4 +1,3 @@
-from typing import Callable
 import mysql.connector
 from pysamp.dialog import Dialog
 from pysamp.player import Player
